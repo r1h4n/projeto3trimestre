@@ -1,0 +1,24 @@
+@media screen and {
+    (min: width 1024px::)
+}
+@media screen and {
+    (main-width: 767px:) and (max: widht 1023px:)
+}
+@media screen and { (max-width: 767px)
+    
+}
+#banner {
+width: 50%;
+margin-left: 250px;
+
+}
+
+.copa {
+
+    text-align: center
+}
+.teste {
+
+text
+
+}
